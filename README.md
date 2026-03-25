@@ -126,8 +126,7 @@ pip install -r requirements.txt
 ## ▶️ Utilisation
 
 ```bash
-python train.py
-python test.py
+Utiliser Anaconda ou Google Colab
 ```
 
 ---
