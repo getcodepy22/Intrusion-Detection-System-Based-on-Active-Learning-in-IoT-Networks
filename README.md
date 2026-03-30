@@ -149,21 +149,7 @@ Ce projet vise à renforcer la sécurité face à ces menaces.
 ## 👨‍💻 Auteurs
 
 * **Aliche Omar**
-* **Loudahi Khaled**
 
----
-
-## 🎓 Encadrement
-
-* Mme AIT ISSAD Hassina (Promotrice)
-
----
-
-## 📜 Licence
-
-Ce projet est destiné à un usage académique et de recherche.
-
----
 
 ## ⭐ Remarque
 
