@@ -116,9 +116,8 @@ Le système utilise une stratégie d’**Active Learning** pour :
 ## ▶️ Installation
 
 ```bash
-git clone https://github.com/ton-username/ids-iot-active-learning.git
-cd ids-iot-active-learning
-pip install -r requirements.txt
+git clone https://github.com/getcodepy22/Intrusion-Detection-System-Based-on-Active-Learning-in-IoT-Networks.git
+
 ```
 
 ---
